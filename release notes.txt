@@ -1,3 +1,6 @@
+## Version v_1.13
+- Nouveau tarif 2016 : 25 €/h.
+
 ## Version v_1.12
 - Correction d'un bug: lorsqu'on clique sur le menu, les titres ne changent pas (pas d'ajout du «>>»). Il fallait transformer l'indice du tableau en entier pour pouvoir manipuler le tableau des menus.
 - Correction dun bug: lorsqu'on clique sur le menu, celui-ci se déplace vers la gauche ou la droite. Il faut donner une largeur fixe au menu (#menu{width:280px;})
